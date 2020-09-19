@@ -17,6 +17,7 @@ public class Location {
         this.builing = builing;
     }
 
+
     public String getCity() {
         return city;
     }
